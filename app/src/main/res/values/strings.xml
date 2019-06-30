@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Nomad</string>
+
+    <!-- COMMON -->
+    <string name="copyright">- Orange © 2019</string>
+    <string name="loading">Demande en cours&#8230;</string>
+    <string name="api_error_default">Erreur inconnue</string>
+    <string name="internal_error">Erreur interne du serveur</string>
+    <string name="no_internet">Veuillez vérifier votre connexion internet</string>
+    <string name="please_complete_all_fields">Veuillez remplir tous les champs</string>
+    <string name="update">Modifier</string>
+    <string name="send">Envoyer</string>
+    <string name="save">Enregistrer</string>
+    <string name="delete">Supprimer</string>
+    <string name="attention">Attention</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="cancel">Annuler</string>
+
+
+
+    <!-- LOGIN -->
+    <string name="login_label">Identifiant</string>
+    <string name="password_label">Mot de passe</string>
+    <string name="save_my_id">Mémoriser \nmon identifiant</string>
+    <string name="forgot_password">Mot de passe oublié ?</string>
+    <string name="login">Se connecter</string>
+    <string name="reset_password">Changement mot de passe</string>
+    <string name="username_and_password_required">Veuillez saisir l\'dentifiant et le mot de passe</string>
+    <string name="incorrect_username_or_password">l\'identifiant ou le mot de passe est incorrect</string>
+
+    <!-- RESET PASSWORD -->
+    <string name="current_password">Mot de passe actuel</string>
+    <string name="new_password">Nouveau mot de passe</string>
+    <string name="confirm_password">Confirmer le nouveau mot de passe</string>
+    <string name="new_password_is_different_from_the_confirmation">Le nouveau mot de passe est différent de la confirmation</string>
+    <string name="password_must_contain_only_numbers">Le code PIN doit comporter 4 chiffres différents et non séquentiels</string>
+    <string name="new_password_must_be_different_from_the_old">Le nouveau mot de passe doit être différent de l\'ancien</string>
+    <string name="update_password_is_not_possible">Impossible de modifier le mot de passe</string>
+
+    <!-- SECURITY QUESTION -->
+    <string name="security_question">Ma question secrète</string>
+    <string name="question">Question ?</string>
+    <string name="answer">Réponse</string>
+    <string name="skip">Passer</string>
+    <string name="delete_question_msg">Si vous supprimez la Q/R, vous ne pourrez plus utiliser les options "Réinitialiser le mot de passe"</string>
+
+    <!-- HOME -->
+    <string name="home">Accueil</string>
+
+    <!-- SETTINGS -->
+    <string name="settings">Paramètres</string>
+    <string name="language">Langue</string>
+    <string name="about">À propos</string>
+    <string name="logout">Déconnexion </string>
+    <string name="share_logs">Partager les logs</string>
+    <string name="update_password">Changer le mot de passe</string>
+    <string name="note_app">Noter l\'application</string>
+    <string name="load_config">Recharger la configuration</string>
+</resources>

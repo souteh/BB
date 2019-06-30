@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/blue_black_light</color>
+    <color name="colorPrimaryDark">@color/black</color>
+    <color name="colorAccent">#FF7901</color>
+    <color name="light_gray">#f0f0f0</color>
+    <color name="gray">#7e7e7e</color>
+    <color name="semi_gray">#cccccc</color>
+    <color name="silver_gray">#999999</color>
+    <color name="dark_gray">#696969</color>
+    <color name="bg_color">#f7f7f7</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="black_effective">#2a2a2a</color>
+    <color name="shadow">#d0d8dc</color>
+    <color name="transparent">#00000000</color>
+    <color name="translucent_white">#88ffffff</color>
+    <color name="blue_black_light">#516179</color>
+
+    <!--Orange colors-->
+    <color name="orange">#FF7901</color>
+    <color name="orange_high_light">#D0671B</color>
+    <color name="green">#50be86</color>
+    <color name="light_blue">#44bbe6</color>
+    <color name="purple">#a885d8</color>
+    <color name="purple_dark">#9064CC</color>
+    <color name="dark_blue">#6c63ff</color>
+    <color name="blue">#44BBE6</color>
+    <color name="red">#CD3C13</color>
+    <!--SweetAlertDialog colors-->
+
+    <color name="main_green_color">#44BBE6</color>
+    <color name="main_green_stroke_color">#44BBE6</color>
+    <color name="float_transparent">#00000000</color>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="blue_btn_bg_color">#AEDEF4</color>
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="red_btn_bg_color">#CD3C13</color>
+    <color name="red_btn_bg_pressed_color">#CD3C13</color>
+    <color name="error_stroke_color">#F27474</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+    <color name="text_color">#575757</color>
+    <color name="material_blue_grey_80">#ff37474f</color>
+    <color name="material_blue_grey_90">#ff263238</color>
+    <color name="material_blue_grey_95">#ff21272b</color>
+    <color name="material_deep_teal_20">#ff80cbc4</color>
+    <color name="material_deep_teal_50">#ff009688</color>
+</resources>
